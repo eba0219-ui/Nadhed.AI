@@ -3,6 +3,11 @@
 ## A Hybrid Multi-Modal Artificial Intelligence Framework for Hyperacute Stroke Detection and Emergency Clinical Triage
 
 ---
+## 📊 Current Status
+* **Journal:** Submitted to **Computerized Medical Imaging and Graphics** (Elsevier)
+* **Current Stage:** Under Peer Review / With Editor
+* **Manuscript Number:** CMIG-D-26-03083
+
 
 ## 🚀 Live Demo & Research Links
 * **Live Interactive Web App (Hugging Face Spaces):** [Try NadHed.AI Here](https://huggingface.co/spaces/nadhedai/Nad.AI)
