@@ -1,4 +1,4 @@
-# NadHed.AI 🧠🤖
+# NadHed.AI 
 
 ## A Hybrid Multi-Modal Artificial Intelligence Framework for Hyperacute Stroke Detection and Emergency Clinical Triage
 
