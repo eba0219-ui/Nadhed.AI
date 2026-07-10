@@ -8,7 +8,7 @@
 * **Current Stage:** Under Peer Review / With Editor
 * **Manuscript Number:** CMIG-D-26-03083
 
-
+---
 ## 🚀 Live Demo & Research Links
 * **Live Interactive Web App (Hugging Face Spaces):** [Try NadHed.AI Here](https://huggingface.co/spaces/nadhedai/Nad.AI)
 * **ResearchGate Preprint (Theoretical Framework):** [DOI: 10.13140/RG.2.2.32422.89925](https://doi.org/10.13140/RG.2.2.32422.89925)
