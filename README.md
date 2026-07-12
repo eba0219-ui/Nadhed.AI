@@ -4,8 +4,7 @@
 
 ---
 ## 📊 Current Status
-* **Journal:** Submitted to **Computerized Medical Imaging and Graphics** (Elsevier)
-* **Current Stage:** Under Peer Review / With Editor
+* **Journal:** Submitted to **Elsevier** (Currently undergoing journal transfer and evaluation process)
 * **Manuscript Number:** CMIG-D-26-03083
 
 ---
