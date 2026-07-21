@@ -4,8 +4,8 @@
 
 ---
 ## 📊 Current Status
-* **Journal:** Submitted to **Elsevier** (Currently undergoing journal transfer and evaluation process)
-* **Manuscript Number:** CMIG-D-26-03083
+* **Research Manuscript:** Submitted to Biomedical Signal Processing and Control (Elsevier).
+* Manuscript ID: BSPC-D-26-12922. Currently under peer review.
 
 ---
 ## 🚀 Live Demo & Research Links
